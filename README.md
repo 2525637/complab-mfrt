@@ -1,3 +1,14 @@
+![Logo](/docs/images/logo.png)
+
+# DANE PROJEKTU:
+
+## Numer umowy	POIR.01.01.01-00-0771/19-00
+
+## Tytuł projektu:
+Inwestycja w badania B+R mające na celu opracowanie materiału na galanterię drogową o wysokich właściwościach ekologicznych i trwałościowych. 
+
+## Okres realizacji projektu:	od	06.01.2020	do 31.05.2023
+
 # CompLab MFR/T
 
 ## Laboratory Information Management System (LIMS)
